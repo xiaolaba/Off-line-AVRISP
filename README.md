@@ -1,5 +1,5 @@
 # Off-line-AVRISP
-electronic scrap, it was failed and simply not be able to burn AVR chip, but why ?  
+electronic scrap, it was failed and simply not be able to burn AVR chip of Arduino UNO/NANO, but why ?  
 
 [U$60 at selling price](https://world.taobao.com/item/73238096.htm) but no more usable, the sales sheet telling website www.nowcharm.com was also obsolete, we can not connect to manufacturer website anymore.
 
