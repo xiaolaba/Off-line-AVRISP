@@ -16,3 +16,6 @@ chips failed ?
 
 ![off-line AVRISP chips.JPG](off-line AVRISP chips.JPG)  
 
+
+![off-line AVRISP chips](https://user-images.githubusercontent.com/2533993/134793166-a4269ef3-380e-423e-9be8-bde21cc27297.JPG)
+![off-line AVRISP failed](https://user-images.githubusercontent.com/2533993/134793171-7625a2cc-d6bd-411f-95ef-82668be8bd4e.JPG)
