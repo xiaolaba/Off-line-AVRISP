@@ -9,11 +9,11 @@ this saying off-line AVR programmer was no longer working, does not matter power
 
 ### what was failed
 USB ok, update firmeware ok, read chip ID and all other targeting fuctions failed.
-![off-line AVRISP failed.JPG](off-line AVRISP failed.JPG)  
+![off-line_AVRISP failed.JPG](off-line_AVRISP_failed.JPG)  
 
 ### why is was fail
 chips failed ?  
 
-![off-line AVRISP chips.JPG](off-line AVRISP chips.JPG)  
+![off-line_AVRISP_chips.JPG](off-line_AVRISP_chips.JPG)  
 
 
