@@ -11,9 +11,15 @@ this saying off-line AVR programmer was no longer working, does not matter power
 USB ok, update firmeware ok, read chip ID and all other targeting fuctions failed.
 ![off-line_AVRISP failed.JPG](off-line_AVRISP_failed.JPG)  
 
-### why is was fail
+### why it was fail
 chips failed ?  
-
 ![off-line_AVRISP_chips.JPG](off-line_AVRISP_chips.JPG)  
+
+
+### the target MCU has no enough voltage supply, 2.3V ?
+power the target MCU with stand alone 3.3V or 5V supply, no luck.  
+![VCC_target.JPG](VCC_target.JPG)  
+
+
 
 
