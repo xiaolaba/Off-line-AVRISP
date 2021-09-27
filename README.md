@@ -30,3 +30,7 @@ update ATMega16A firmware via ISP header added
 ![upgrade_ISP.JPG](upgrade_ISP.JPG)
 
 
+### done
+
+![fixed.JPG](fixed.JPG)  
+
