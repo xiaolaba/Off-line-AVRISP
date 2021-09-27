@@ -20,6 +20,13 @@ chips failed ?
 power the target MCU with stand alone 3.3V or 5V supply, no luck.  
 ![VCC_target.JPG](VCC_target.JPG)  
 
+### the fix
+replaced HC244  
+upgrade power plan  
+update ATMega16A firmware via ISP header added  
+![upgrade_power_plan.JPG](upgrade_power_plan.JPG)  
 
+### reversed enginering, the circuit diagram
+![upgrade_ISP.JPG](upgrade_ISP.JPG)
 
 
